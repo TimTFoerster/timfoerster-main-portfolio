@@ -1,3 +1,19 @@
 body {
     font-family: Helvetica;
 }
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: #202020;
+}
+
+a:active {
+    color: #202020;
+}
+
+a:visited {
+    color: black;
+}
